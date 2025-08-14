@@ -2,7 +2,7 @@
 // @name         Deeper Tools
 // @description  Набор инструментов для Deeper.
 // @namespace    http://tampermonkey.net/
-// @version      3.9.1
+// @version      3.9.4
 // @author       https://github.com/lReDragol
 // @icon         https://avatars.mds.yandex.net/get-socsnippets/10235467/2a0000019509580bc84108597cea65bc46ee/square_83
 // @match        http://34.34.34.34/*
@@ -1129,3 +1129,4 @@
     }
 
 })();
+
